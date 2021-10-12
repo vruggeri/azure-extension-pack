@@ -1,5 +1,9 @@
 # Azure Tools for Visual Studio Code
 
+
+[![Version](https://vsmarketplacebadge.apphb.com/version/prodam.azure-extension-pack.svg)](https://marketplace.visualstudio.com/items?itemName=prodam.azure-extension-pack)
+[![Installs](https://vsmarketplacebadge.apphb.com/installs/prodam.azure-extension-pack.svg)](https://marketplace.visualstudio.com/items?itemName=prodam.azure-extension-pack)
+
 [Microsoft Azure](https://azure.microsoft.com/en-us/overview/what-is-azure/) support for Visual Studio Code is provided through a rich set of extensions that make it easy to discover and interact with the cloud services that power your applications.
 
 > If you do not have an Azure subscription, [sign up today](https://azure.microsoft.com/en-us/free/?b=16.48) for a free account. You'll get 12 months of popular free services, **\$200** in Azure Credits to try out any combination of Azure services, and access to 25+ always free services such as Azure Container Service, DevTest Labs, and Service Fabric.
