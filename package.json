@@ -1,0 +1,42 @@
+{
+    "name": "azure-extension-pack",
+    "displayName": "Azure Tools",
+    "publisher": "prodam",
+    "description": "Get web site hosting, SQL and MongoDB data, Docker Containers, Serverless Functions and more, all on Azure, all from VS Code, in this one extension from Microsoft.",
+    "version": "0.0.1",
+    "license": "SEE LICENSE IN LICENSE",
+    "galleryBanner": {
+        "color": "#0072c6",
+        "theme": "dark"
+    },
+    "icon": "azure.png",
+    "repository": {
+        "url": "https://github.com/vruggeri/azure-extension-pack"
+    },
+    "homepage": "https://github.com/vruggeri/azure-extension-pack",
+    "engines": {
+        "vscode": "^1.61.0"
+    },
+    "keywords": [
+        "azure",
+        "node"
+    ],
+    "categories": [
+        "Azure",
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "ms-azuretools.vscode-azureappservice",
+        "ms-azuretools.vscode-azurefunctions",
+        "ms-azuretools.vscode-azurestorage",
+        "ms-azuretools.vscode-cosmosdb",
+        "ms-azuretools.vscode-azurevirtualmachines",
+        "ms-azuretools.vscode-azureresourcegroups",
+        "ms-vscode.azurecli",
+        "msazurermtools.azurerm-vscode-tools",
+        "ms-azuretools.vscode-bicep",
+        "ms-azuretools.vscode-docker",
+        "ms-azure-devops.azure-pipelines",
+        "bencoleman.armview"
+    ]
+}
