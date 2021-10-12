@@ -1,6 +1,5 @@
 # Azure Tools for Visual Studio Code
 
-
 [![Version](https://vsmarketplacebadge.apphb.com/version/prodam.azure-extension-pack.svg)](https://marketplace.visualstudio.com/items?itemName=prodam.azure-extension-pack)
 [![Installs](https://vsmarketplacebadge.apphb.com/installs/prodam.azure-extension-pack.svg)](https://marketplace.visualstudio.com/items?itemName=prodam.azure-extension-pack)
 
